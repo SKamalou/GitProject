@@ -7,7 +7,6 @@ namespace GitProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Sadegh, How Are You?");
-            Console.WriteLine("Hello Sadegh, How Are You?");
         }
     }
 }
